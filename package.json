@@ -1,0 +1,24 @@
+{
+  "name": "paskaitos-uzduotis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dominykas-Zernys/lesson_2_feb_01_task.git"
+  },
+  "author": "Dominykas Zernys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dominykas-Zernys/lesson_2_feb_01_task/issues"
+  },
+  "homepage": "https://github.com/Dominykas-Zernys/lesson_2_feb_01_task#readme",
+  "dependencies": {
+    "casual": "^1.6.2",
+    "cors": "^2.8.5",
+    "express": "^4.17.2"
+  }
+}
